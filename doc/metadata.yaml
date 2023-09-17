@@ -1,0 +1,17 @@
+description: Designed primarily to connect to the I2C DIFF as an extension of another
+  RJ45 connectors.
+github_branch: RJ45V01A
+github_description: Designed primarily to connect to the I2C DIFF as an extension
+  of another RJ45 connectors.
+github_repo: RJ45V01
+github_url: https://github.com/mlab-modules/RJ45V01
+homepage: false
+images:
+- doc/img/RJ45V01A_top_small.jpg
+- doc/img/RJ45V01A_top_big.jpg
+- doc/img/RJ45V01A_QRcode.png
+mark: 50
+status: 0
+tags: []
+title: RJ45V01
+updated: '2023-09-17T11:34:37.520732+00:00'
